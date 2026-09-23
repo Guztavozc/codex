@@ -1,5 +1,5 @@
 const CONFIG = {
-  recipientName: "Para Sinoy 💗✨",
+  recipientName: "Sinoy 💗✨",
   senderInitial: "G",
   recipientInitial: "S",
   invitation: "Tengo algo escrito entre las estrellas para ti.",
